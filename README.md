@@ -32,9 +32,7 @@ Summarize the main insights derived from the analysis, including the identificat
 
 Provide a conclusion summarizing the key findings of the project and recommendations for the marketing team based on the analysis results.
 
-### Documentation: 
 
-Include a README.md file with instructions on how to replicate the analysis, information about the dataset, and any other relevant details about the project.
 
 ![Screenshot (3)](https://github.com/darshanns09/Mall-Customer-Segmentation-ML-Project/assets/145355404/3ba99f48-e5d3-45ae-a282-80236d926706)
 
